@@ -1,3 +1,3 @@
 module.exports = {
-    saudacao() { return 'Oi beleza?! eu sou o módulo B!' }
+    saudacao() { return 'Olá eu sou o módulo B!' }
 }
